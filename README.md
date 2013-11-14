@@ -9,11 +9,19 @@ Points to cover in assignment:
     - what are they
     - what good are they
     - how do they help you, the user
-    - quick overview of the vocabulary
-    
+    questions:
+        - has anyone used a VCS before?
+            - ask a student what have they used before? Version?
+        - has anyone heard or used github?
+
 -introduction to github:
     - what is github
     - how did it come to be
+    - how is github useful
+    - quick overview of the vocabulary
+    - is there a large community for github
+    - what type of developers use github
+    - paid vs. free plans - members and organizations - private repositories
     - how is github differ from other VCS's
     
 -how github works:
