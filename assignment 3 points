@@ -4,6 +4,7 @@ comp1920
 Assignment3 Repo for Group Talk
 Points to cover in assignment:
 
+Jordan:
 -overview of Version Control System:
     - how they came to be
     - what are they
@@ -13,7 +14,8 @@ Points to cover in assignment:
         - has anyone used a VCS before?
             - ask a student what have they used before? Version?
         - has anyone heard or used github?
-
+        
+Jordan:
 -introduction to github:
     - what is github
     - how did it come to be
@@ -24,33 +26,36 @@ Points to cover in assignment:
     - paid vs. free plans - members and organizations - private repositories
     - how is github differ from other VCS's
     
+TJ:    
 -how github works:
     - file operations
     - verifying file integrity
     - the three states a file can be in
 
+Steve
 -installation:
     - where to download software
     - what platforms are supported
     - how to install
     - download and install
 
+Steve
 -setup of github:
     - setup github on local machine
     - demonstrate the user interface
 
+David
 -repositories:
     - file status life cycle - untracked, tracked, unmodified, modified, commit
     - recording changes to the repository, see the differences added/changed to files
     - undoing changes
     - collaborating on projects which will lead to our demonstration
     
--split into two teams to work on a lab for our demonstration and explaining what they are doing
-
+Jordan, TJ, Steve, and David:
     Demonstration:
     
     -demonstrate lab 19:  one group works on one file while the other group explains what they are doing
     with the index.php and 1.php files.
         -once the index.php file is complete, teams will switch roles; the team that was explaining will work on the
-        2.php and logout.php files, while the team that did the index.php and logout.php files will explain what
+        2.php and logout.php files, while the team that did the index.php and 1.php files will explain what
         is happening.
