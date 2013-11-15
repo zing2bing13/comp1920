@@ -46,3 +46,11 @@ Points to cover in assignment:
     - collaborating on projects which will lead to our demonstration
     
 -split into two teams to work on a lab for our demonstration and explaining what they are doing
+
+    Demonstration:
+    
+    -demonstrate lab 19:  one group works on one file while the other group explains what they are doing
+    with the index.php and 1.php files.
+        -once the index.php file is complete, teams will switch roles; the team that was explaining will work on the
+        2.php and logout.php files, while the team that did the index.php and logout.php files will explain what
+        is happening.
