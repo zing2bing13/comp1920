@@ -18,13 +18,13 @@ Points to cover in assignment:
     - what is github
     - how did it come to be
     - how is github useful
-    - quick overview of the vocabulary
     - is there a large community for github
     - what type of developers use github
     - paid vs. free plans - members and organizations - private repositories
     - how is github differ from other VCS's
     
 - how github works:
+    - quick overview of the vocabulary
     - file operations
     - verifying file integrity
     - the three states a file can be in
