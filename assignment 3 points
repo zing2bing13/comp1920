@@ -20,7 +20,6 @@ Jordan:
     - what is github
     - how did it come to be
     - how is github useful
-    - quick overview of the vocabulary
     - is there a large community for github
     - what type of developers use github
     - paid vs. free plans - members and organizations - private repositories
@@ -28,23 +27,24 @@ Jordan:
     
 TJ:    
 -how github works:
+    - quick overview of the vocabulary
     - file operations
     - verifying file integrity
     - the three states a file can be in
 
-Steve
+Steve:
 -installation:
     - where to download software
     - what platforms are supported
     - how to install
     - download and install
 
-Steve
+Steve:
 -setup of github:
     - setup github on local machine
     - demonstrate the user interface
 
-David
+David:
 -repositories:
     - file status life cycle - untracked, tracked, unmodified, modified, commit
     - recording changes to the repository, see the differences added/changed to files
